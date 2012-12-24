@@ -1,0 +1,5 @@
+LIBRARY	"xp_hooks"
+
+EXPORTS
+
+	GetPluginPointerV2
